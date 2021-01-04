@@ -16,6 +16,9 @@ Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트�
 MVC패턴을 기반으로 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였고 이에 따르는 리스너를 담당했습니다. 또한 [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. <br>
 <br>
 
+### Video.
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=yMfNDHJwZhY&t=0s" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+
 ### Difficult Point.
 Java 툴킷을 이용하여 처음 GUI를 구현해보았는데, 각 컴포넌트들의 개념은 어렵지않게 익힐 수 있었습니다. 하지만 제공되는 레이아웃을 통해 원하는 화면을 구성해내기가 상당히 어려웠습니다.
 그리하여 고정 해상도를 정해두고, 각 컴포넌트들을 절대위치를 이용해 배치하는 것으로 해결했습니다.<br> 
@@ -26,5 +29,3 @@ Java 툴킷을 이용하여 처음 GUI를 구현해보았는데, 각 컴포넌�
 
 ### Documents.
 [프로젝트 관련문서](https://github.com/tlagmltjq11/TeamProject/tree/master/Documents)
-
-### Video.

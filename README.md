@@ -10,7 +10,6 @@ Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트�
 2. *TCP/IP Socket Server* : 멀티를 지원하기 위해서 TCP/IP 소켓통신을 이용하였습니다.<br>
 3. *Multi-Thread* : 실시간 다중 진행을 위해서 Thread를 생성하여 사용하였습니다.<br>
 4. *DataBase(Local)* : 계정정보, 문제정보, 방정보를 저장하기위해 JDBC를 통해 MySQL과 연동하여 사용하였습니다.<br>
-<br>
 
 ### My Part.
 MVC패턴을 적용하여 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였고, [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. 또한 게임 진행방식에 대한 개발을 도맡았습니다. <br>

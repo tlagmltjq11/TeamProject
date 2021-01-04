@@ -5,10 +5,10 @@
 Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트로, 게임 방식은 이렇습니다. 방에 참여한 사람들이 한 사람씩 돌아가며 출제자가 됩니다. 출제자는 주어진 단어를 캔버스에 그림으로 그려서 묘사하고, 나머지 사람들은 그 단어를 맞히면 되는 게임입니다.
 <br>
 ### About Dev.
-<span style="color:red">MVC</span>MVC : MVC패턴을 이용한 클래스간 느슨한 결합을 통해, 유지보수 및 명확히 나뉘어진 팀원들의 파트를 통합할 때 효율적으로 진행할 수 있었습니다.<br>
+*MVC* : MVC패턴을 이용한 클래스간 느슨한 결합을 통해, 유지보수 및 명확히 나뉘어진 팀원들의 파트를 통합할 때 효율적으로 진행할 수 있었습니다.<br>
 *TCP/IP Socket Server* : 멀티를 지원하기 위해서 TCP/IP 소켓통신을 이용하였습니다.<br>
-Multi-Thread : 실시간 다중 진행을 위해서 Thread를 생성하여 사용하였습니다.<br>
-DataBase(Local) : 계정정보, 문제정보, 방정보를 저장하기위해 JDBC를 통해 MySQL과 연동하여 사용하였습니다.<br>
+*Multi-Thread* : 실시간 다중 진행을 위해서 Thread를 생성하여 사용하였습니다.<br>
+*DataBase(Local)* : 계정정보, 문제정보, 방정보를 저장하기위해 JDBC를 통해 MySQL과 연동하여 사용하였습니다.<br>
 <br>
 ### My Part.
 MVC패턴을 적용하여 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였고, [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. 또한 게임 진행방식에 대한 개발을 도맡았습니다. 

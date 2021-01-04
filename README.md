@@ -17,7 +17,8 @@ MVC패턴을 기반으로 Java에서 지원하는 Awt와 Swing을 이용해 View
 <br>
 
 ### Video.
-[![시연영상](https://www.youtube.com/watch?v=yMfNDHJwZhY/0.jpg)](https://www.youtube.com/watch?v=yMfNDHJwZhY)
+[![시연영상](https://img.youtube.com/vi/yMfNDHJwZhY/0.jpg)](https://www.youtube.com/watch?v=yMfNDHJwZhY)<br>
+<br>
 
 ### Difficult Point.
 Java 툴킷을 이용하여 처음 GUI를 구현해보았는데, 각 컴포넌트들의 개념은 어렵지않게 익힐 수 있었습니다. 하지만 제공되는 레이아웃을 통해 원하는 화면을 구성해내기가 상당히 어려웠습니다.

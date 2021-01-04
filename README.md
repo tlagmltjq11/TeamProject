@@ -11,10 +11,9 @@ Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트�
 *DataBase(Local)* : 계정정보, 문제정보, 방정보를 저장하기위해 JDBC를 통해 MySQL과 연동하여 사용하였습니다.<br>
 <br>
 ### My Part.
-MVC패턴을 적용하여 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였고, [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. 또한 게임 진행방식에 대한 개발을 도맡았습니다. 
+MVC패턴을 적용하여 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였고, [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. 또한 게임 진행방식에 대한 개발을 도맡았습니다. <br>
 <br>
-### Difficult Point.
-
+### Difficult Point.<br>
 <br>
 ### Feeling.
 팀 프로젝트를 처음으로 진행해본 것이라서 프로젝트의 방향성과 스케일을 정하는 데 많은 어려움이 있었습니다. 그래도 부딪히며 배워보자는 생각으로 나름 스케일을 크게 잡았었습니다. 그리하여 소켓 통신, DB, MVC, Java(GUI) 등 많은 것들을 기초부터 배워야 했습니다. 개발 기간이 12주라는 짧다면 짧은 시간이었기에 처음에는 좌절도 많이 했었습니다. 하지만 각 팀원이 맡은 파트를 수행하는 것을 넘어, 서로의 파트를 함께 고민하며 협업한 끝에 성공적으로 마무리 할 수 있었던 것 같습니다. 이 프로젝트를 계기로 3학년 4학년 때 배우게 될 DB, 소켓 통신 등을 예습할 수 있었기 때문에, 추후 지속해서 좋은 성적을 받는 발판이 되기도 했으며, 이때의 팀원들과 4학년을 마무리 할 때까지 많은 팀 활동을 할 수 있는 원동력이 되기도 했습니다.

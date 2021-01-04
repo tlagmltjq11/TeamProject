@@ -1,11 +1,11 @@
 # Catch-Ur-Crayon  
 <br>
 
-### About Project.
+### About Project.:two_men_holding_hands:
 Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트로, 게임 방식은 이렇습니다. 방에 참여한 사람들이 한 사람씩 돌아가며 출제자가 됩니다. 출제자는 주어진 단어를 캔버스에 그림으로 그려서 묘사하고, 나머지 사람들은 그 단어를 맞히면 되는 게임입니다.<br>
 <br>
 
-### About Dev.
+### About Dev.:nut_and_bolt::seat:
 1. *MVC* : MVC패턴을 이용한 클래스간 느슨한 결합을 통해 유지보수 및 명확히 나뉘어진 팀원들의 파트를 통합할 때 효율적으로 진행할 수 있었습니다.<br>
 2. *TCP/IP Socket Server* : 멀티를 지원하기 위해서 TCP/IP 소켓통신을 이용하였습니다.<br>
 3. *Multi-Thread* : 실시간 다중 진행을 위해서 Thread를 생성하여 사용하였습니다.<br>

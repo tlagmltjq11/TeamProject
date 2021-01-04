@@ -17,7 +17,7 @@ MVC패턴을 기반으로 Java에서 지원하는 Awt와 Swing을 이용해 View
 <br>
 
 ### Video.
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=yMfNDHJwZhY&t=0s" frameborder="0" gesture="media" allowfullscreen=""></iframe><br>
+<iframe width="640" height="360" src="https://www.youtube.com/watch?v=yMfNDHJwZhY" frameborder="0" gesture="media" allowfullscreen=""></iframe><br>
 <br>
 
 ### Difficult Point.

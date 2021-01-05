@@ -18,7 +18,7 @@ MVC패턴을 기반으로 Java에서 지원하는 Awt와 Swing을 이용해 View
 <br>
 
 ### Video.:video_camera:
-*클릭하세요.*<br>
+*클릭해주세요.*<br>
 [![시연영상](https://img.youtube.com/vi/yMfNDHJwZhY/0.jpg)](https://www.youtube.com/watch?v=yMfNDHJwZhY)<br>
 <br>
 

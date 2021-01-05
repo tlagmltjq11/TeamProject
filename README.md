@@ -13,7 +13,7 @@ Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트�
 <br>
 
 ### My Part.:computer:
-MVC패턴을 기반으로 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였고 이에 따르는 리스너를 담당했습니다. 또한 [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. <br>
+MVC패턴을 기반으로 Java에서 지원하는 Awt와 Swing을 이용해 View 관련 즉 모든 GUI를 개발하였습니다. 또한 [JavaZoom](http://www.javazoom.net/javalayer/sources.html)을 이용하여 Sound Effect를 구현할 수 있었습니다. <br>
 <br>
 
 ### Video.:video_camera:

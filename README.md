@@ -8,8 +8,8 @@ Catch-Ur-Crayon은 넷마블사의 '캐치마인드'를 모작한 프로젝트�
 ### About Dev.:nut_and_bolt:
 1. *MVC* : MVC패턴을 이용한 클래스간 느슨한 결합을 통해 유지보수 및 명확히 나뉘어진 팀원들의 파트를 통합할 때 효율적으로 진행할 수 있었습니다.<br>
 2. *TCP/IP Socket Server* : 멀티를 지원하기 위해서 TCP/IP 소켓통신을 이용하였습니다.<br>
-3. *Multi-Thread* : 실시간 다중 진행을 위해서 Thread를 생성하여 사용하였습니다.<br>
-4. *DataBase(Local)* : 계정정보, 문제정보, 방정보를 저장하기위해 JDBC를 통해 MySQL과 연동하여 사용하였습니다.<br>
+3. *DataBase(Local)* : 계정정보, 문제정보, 방정보를 저장하기위해 JDBC를 통해 MySQL과 연동하여 사용하였습니다.<br>
+<!-- 4. *Multi-Thread* : 실시간 다중 진행을 위해서 Thread를 생성하여 사용하였습니다.<br> -->
 <br>
 
 ### My Part.:computer:
